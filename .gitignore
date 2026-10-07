@@ -1,0 +1,6 @@
+# Executáveis
+*.exe
+*.o
+
+# Pastas do VS Code
+.vscode/
